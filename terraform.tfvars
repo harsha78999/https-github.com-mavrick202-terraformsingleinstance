@@ -1,4 +1,4 @@
-aws_access_key = "xxxxxx"
+aws_access_key = "xxxxxxxxxx"
 aws_secret_key = "yyyyyyy"
 aws_region = "us-east-1"
 vpc_cidr = "10.1.0.0/16"
